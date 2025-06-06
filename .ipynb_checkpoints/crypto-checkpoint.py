@@ -2,10 +2,90 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 1,
    "id": "dde6f32e-bed2-4939-a792-5e9245cd8ac7",
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "EcoCryptoBot 🤖🌱: Hello there! I'm EcoCryptoBot, your sustainable crypto advisor.\n",
+      "Ask me about trending coins, sustainability, or long-term investment advice!\n",
+      "\n"
+     ]
+    },
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "You:  Which crypto should I buy for long-term growth?\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "EcoCryptoBot: 📊 For long-term growth, consider Cardano. It's rising and sustainable!\n"
+     ]
+    },
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "You:  Which coins are trending?\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "EcoCryptoBot: These cryptos are trending up: Bitcoin, Solana, Qubic, NATIX Network, Sui, Keeta, Ethereum, Hyperliquid, USD1, Railgun, Fartcoin, Zebec Network, Sophon, Build On BNB, Plume 🚀\n"
+     ]
+    },
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "You:  whats the disclaimer in trading biitcoins\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "EcoCryptoBot: ⚠️ Crypto is risky—always do your own research!\n"
+     ]
+    },
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "You:  thankyou\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "EcoCryptoBot: Hmm, I didn't quite catch that. Try asking about trends, sustainability, or prices.\n"
+     ]
+    },
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "You:  quit\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "EcoCryptoBot: 👋 Goodbye and good luck with your crypto journey!\n"
+     ]
+    }
+   ],
    "source": [
     "import requests\n",
     "\n",
@@ -79,16 +159,28 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "20a147c0-0902-46b6-a4e3-f414771763e8",
+   "execution_count": 2,
+   "id": "b7374dca-e2cd-4dd7-9a82-561a95094ad0",
    "metadata": {},
-   "outputs": [],
-   "source": []
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (2118439407.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[2], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    git init\u001b[0m\n\u001b[0m        ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "git init\n",
+    "git remote add origin https://github.com/codewithmaytor/EcoCryptoBot.git\n"
+   ]
   },
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "fd453961-595b-4cd4-9427-4cda52de4803",
+   "id": "20a147c0-0902-46b6-a4e3-f414771763e8",
    "metadata": {},
    "outputs": [],
    "source": []

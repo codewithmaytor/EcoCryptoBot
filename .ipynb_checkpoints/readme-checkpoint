@@ -1,0 +1,59 @@
+# EcoCryptoBot 🤖🌱
+
+Your first AI-powered financial sidekick! This chatbot helps you explore crypto investment options based on **profitability** and **sustainability**.
+
+---
+
+## 🧠 Features
+
+- ✅ Recommends sustainable cryptocurrencies
+- ✅ Gives advice based on market trends (via CoinGecko API)
+- ✅ Real-time prices for Bitcoin, Ethereum, and Cardano
+- ✅ Uses basic AI logic (rule-based decision making)
+- ✅ Friendly conversation with commands
+
+---
+
+## 🚀 Technologies Used
+
+- Python
+- Requests (API calls)
+- CoinGecko API (Free crypto data)
+
+---
+
+## 💡 How to Use
+
+1. Run the script in Jupyter Lab or any Python IDE.
+2. Ask questions like:
+   - `Which crypto is trending?`
+   - `What's the price of Bitcoin?`
+   - `What coin is good for long-term growth?`
+3. Type `exit` to end the session.
+
+---
+
+## 📊 Advice Rules
+
+- **Profitability**: Coin is trending and has a high market cap.
+- **Sustainability**: Coin uses low energy and has a score > 7.
+
+---
+
+## ⚠️ Disclaimer
+
+Crypto is risky—always do your own research before investing!
+
+---
+
+## 📸 Screenshots
+
+> Add your screenshot(s) here showing your chatbot interaction.
+
+---
+
+## 🎥 Demo Video
+
+> Link to your 30-second screen recording (uploaded to LMS or YouTube).
+
+
